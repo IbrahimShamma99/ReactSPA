@@ -4,7 +4,7 @@ SPA using React.JS and Node.JS for those getting started with react.js and react
 ### Installation
 #### Running the demo locally
 1. Run `$ npm install` in the FirstReactApp/ directory
-2. Start the server in FirstReactApp using `$ npm start`. Should open a port on 8080.
+2. Start the server in FirstReactApp using `$ npm start`. Should open a port on 3000.
 3. Navigate your browser to http://localhost:3000.
 
 Tested using npm 3.10.5 and node 4.4.7 

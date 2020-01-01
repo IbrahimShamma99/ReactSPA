@@ -1,15 +1,15 @@
 {
     "name": "FirstReactApp",
     "version": "1.0.0",
-    "description": "Demo SPA using React.JS and Node.JS",
-    "repository": "https://github.com/sidagarwal04/FirstReactApp",
+    "description": "React SPA using React.JS and Node.JS",
+    "repository": "https://github.com/IbrahimShamma99/ReactSPA",
     "main": "server.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "start": "node server.js",
         "postinstall": "webpack -p --config webpack.prod.config.js"
     },
-    "author": "Siddhant Agarwal <er.siddhantagarwal@gmail.com>",
+    "author": "Ibrahim Abu-Shamma<i.abushammah@gmail.com>",
     "license": "MIT",
     "devDependencies": {
         "babel-core": "^6.10.4",
