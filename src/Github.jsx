@@ -5,7 +5,7 @@ class Github extends React.Component {
       return (
       <div>
           <h2>Github</h2>
-          <p>Check out complete source code at the <a href="#">Github repo</a>.
+          <p>Check out complete source code at the <a href="https://github.com/IbrahimShamma99/ReactSPA">Github repo</a>.
           </p>
         </div>
       );

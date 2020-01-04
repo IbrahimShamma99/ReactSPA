@@ -9,7 +9,6 @@ import MI1 from './src/MI1.jsx';
 import MI2 from './src/MI2.jsx';
 import Github from './src/Github.jsx';
 import Contact from './src/Contact.jsx';
-import FAQ from './src/FAQ.jsx';
 
 
 ReactDOM.render(
@@ -17,11 +16,8 @@ ReactDOM.render(
         <Route path="/" component={App}>
           <IndexRoute component={Home}/>
           <Route path="about" component={About}/>
-          <Route path="mi1" component={MI1}/>
-          <Route path="mi2" component={MI2}/>	
           <Route path="github" component={Github}/>
           <Route path="contact" component={Contact}/>
-          <Route path="faq" component={FAQ}/>
         </Route>
       </Router>,
       document.getElementById('app')
