@@ -7,7 +7,8 @@ import Home from './src/Home.jsx';
 import About from './src/About.jsx';
 import Github from './src/Github.jsx';
 import Contact from './src/Contact.jsx';
-
+//import Skill from './src/Skill.jsx';
+//<Route path="Skill" component={Skill}/>
 
 ReactDOM.render(
       <Router>

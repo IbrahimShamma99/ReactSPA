@@ -13,6 +13,7 @@ var App = React.createClass({
           </li>  
           <li><Link to="/github" activeClassName="active">Github</Link></li>
           <li><Link to="/contact" activeClassName="active">Contact</Link></li>
+          <li><Link to="/Skills" activeClassName="active">Skills</Link></li>
         </ul>
         <div className="content">
             {this.props.children}
