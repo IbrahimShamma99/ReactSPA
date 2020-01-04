@@ -4,19 +4,27 @@ class About extends React.Component {
    render() {
       return (
       <div>
-          <h2>About</h2>
-          <h3>This is about page of the spa website.</h3>
-          <p>Mauris sem velit, vehicula eget sodales vitae,
-          rhoncus eget sapien:</p>
-          <p>Cras facilisis urna ornare ex volutpat, et
-          convallis erat elementum. Ut aliquam, ipsum vitae
-          gravida suscipit, metus dui bibendum est, eget rhoncus nibh
-          metus nec massa. Maecenas hendrerit laoreet augue
-          nec molestie. Cum sociis natoque penatibus et magnis
-          dis parturient montes, nascetur ridiculus mus.</p>
-  
-          <p>Duis a turpis sed lacus dapibus elementum sed eu lectus.</p>
-        </div>
+          <h1>About Me</h1>
+          <h2>Experience</h2>
+          <p>JO-VISION
+             <h2>Achievements</h2>
+             <p>• Valuable member in structuring Desktop & web project .</p>
+             <p>• worked on a of cloud based web app which targeted medical using NodeJS & React .</p>
+             <p>• Participating in improving integration flow and designs .</p>
+             <p>• Solving complex problems related to the medical web app.</p>
+             <p>• improved the code base in terms of optimization and code cleansing .</p>
+         </p>
+
+         <h2>Education</h2>
+          <p>Balqa Applied university school of Engineering
+             <h2>Achievements</h2>
+             <p>• Valuable member in valunteering work on IEEE computer society .</p>
+             <p>• worked on multiple projects including computer vision to detect cars and street lanes </p>
+             <p>• Participating in multiple of teams to work into solving complex problems .</p>
+             <p>• Giving multiple of lectures about various Tech technologies including NodeJS & Tensorflow.</p>
+         </p>
+
+      </div>
       );
    }
 }

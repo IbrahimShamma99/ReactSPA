@@ -5,8 +5,6 @@ import {Router, Route, IndexRoute, IndexLink, Link} from "react-router";
 import App from './src/App.jsx';
 import Home from './src/Home.jsx';
 import About from './src/About.jsx';
-import MI1 from './src/MI1.jsx';
-import MI2 from './src/MI2.jsx';
 import Github from './src/Github.jsx';
 import Contact from './src/Contact.jsx';
 

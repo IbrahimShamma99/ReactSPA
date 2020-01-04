@@ -6,7 +6,7 @@ var App = React.createClass({
     return (
    
       <div id="menuwrapper">
-        <h1>&lt;Company Logo&gt;</h1>
+        <h1>MY RESUME</h1>
         <ul>
           <li><IndexLink to="/" activeClassName="active">Home</IndexLink></li>
           <li className="dropdown"><Link to="/about" activeClassName="active">About</Link>
