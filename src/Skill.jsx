@@ -11,7 +11,7 @@ class Skill extends React.Component {
             <p>NodeJS</p>
             <p>ReactJS</p>
             <p>NOSQL</p>
-            <p>   </p>
+            <p>MongoDB</p>
             <p>Express</p>
             <p>Bootstrap</p>
             <p>Django</p>

@@ -5,6 +5,7 @@ class Contact extends React.Component {
       return (
       <div>
           <h2>Contact</h2>
+          <p>Email: i.abushammah@gmail.com</p>
           <p>Github <a href="https://github.com/ibrahimshamma99">Github Account</a></p>
           <p>LinkedIn<a href="https://www.linkedin.com/in/ibrahim-abushamma-890812184/">LinkedIn Account</a></p>
           <p>Twitter<a href="https://twitter.com/ibrahimbon5">Twitter Account</a></p>
