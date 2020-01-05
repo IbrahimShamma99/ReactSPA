@@ -9,6 +9,14 @@ class Skill extends React.Component {
       <div>
           <h2>Skills</h2>
             <p>NodeJS</p>
+            <p>ReactJS</p>
+            <p>NOSQL</p>
+            <p>   </p>
+            <p>Express</p>
+            <p>Bootstrap</p>
+            <p>Django</p>
+            <p>Jest</p>
+            <p>Machine Learning</p>
         </div>
       );
    };

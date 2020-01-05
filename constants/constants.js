@@ -3,5 +3,6 @@ export const RoutesNames = {
     about: '/about',
     github: '/github',
     contact: '/conatct',
-    skill: "/skill"
+    skill: "/skill",
+    BaseHtml: '/index.html'
 };
